@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Irani</h1>
 <h3 align="center">A Google Developer Expert for Google Workspace. I am a technical writer and content creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanirani123&label=Profile%20views&color=0e75b6&style=flat" alt="aryanirani123" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aryanirani123" target="blank"><img src="https://img.shields.io/twitter/follow/aryanirani123?logo=twitter&style=for-the-badge" alt="aryanirani123" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.aryanirani123.com/projects](https://www.aryanirani123.com/projects)
 
 - 📝 I regularly write articles on [https://aryanirani123.medium.com/](https://aryanirani123.medium.com/)
@@ -32,6 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aryanirani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aryanirani" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanirani123&show_icons=true&locale=en&layout=compact" alt="aryanirani123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanirani123&show_icons=true&locale=en&layout=compact" alt="aryanirani123" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanirani123&show_icons=true&locale=en" alt="aryanirani123" /></p>
