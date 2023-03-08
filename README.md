@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Irani</h1>
 <h3 align="center">A Google Developer Expert for Google Workspace. I am a technical writer and content creator</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18657810">
 
 - 👨‍💻 All of my projects are available at [https://www.aryanirani123.com/projects](https://www.aryanirani123.com/projects)
 
