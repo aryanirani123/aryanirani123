@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aryan Irani</h1>
-<h3 align="center">A Google Developer Expert for Google Workspace. I am a technical writer and content creator</h3>
+<h3 align="center">Google Developer Expert, Google Cloud Innovator for Google Workspace</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.aryanirani123.com/projects](https://www.aryanirani123.com/projects)
